@@ -1,0 +1,1 @@
+The census data unveils a wealth of information. Is it possible to categorize an individual's income level by analyzing their background details? We employed a neural network model to address this inquiry.
